@@ -1,2 +1,2 @@
-# Repo Auxiliar
-Repo Auxiliar para ISO2 - LLM
+# Repo Auxiliar ISO2 - LLM
+Respuesta LLM - Perplexity Pro
